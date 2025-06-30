@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Abhay Barman 👋</h1>
 
 <p align="center">
+  <img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="coding gif" width="500" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ABHAYBARMAN067"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/abhay-barman-9a0b3a277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
   <a href="https://codepen.io/Abhay-Barman"><img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge"></a>
@@ -73,4 +77,3 @@
 > “Build things you love. Break things to learn. Fix things to grow.”
 
 ---
-
