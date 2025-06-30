@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Advanced React, React Native, and AI/ML models**
 - 💞️ Open to collaborate on **web & mobile apps, APIs, and AI tools**
 - 📫 How to reach me:
-  - 📧 Email: abhaybarman067@example.com
+  - 📧 Email: abhaybarman067@gmail.com
   - 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
   - 💻 [GitHub](https://github.com/ABHAYBARMAN067)
   - 🎨 [CodePen](https://codepen.io/Abhay-Barman)
