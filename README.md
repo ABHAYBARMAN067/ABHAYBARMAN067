@@ -12,37 +12,44 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂ About Me
 
-- 👋 Hi, I’m **@ABHAYBARMAN067**
-- 👀 Interested in **Full Stack Development, App Development, and Machine Learning**
+- 👋 Hi, I’m *@ABHAYBARMAN067*
+- 👀 Interested in *Full Stack Development, App Development, and Machine Learning*
 - 🌱 Currently learning **Advanced React, React Native, **
-- 💞️ Open to collaborate on **web & mobile apps, APIs, and AI tools**
+- 💞 Open to collaborate on *web & mobile apps, APIs, and AI tools*
 - 📫 How to reach me:
   - 📧 Email: abhaybarman067@gmail.com
   - 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
   - 💻 [GitHub](https://github.com/ABHAYBARMAN067)
   - 🎨 [CodePen](https://codepen.io/Abhay-Barman)
-- ⚡ Fun fact: *I love mixing creative UI designs with powerful backend logic!*
+- ⚡ Fun fact: I love mixing creative UI designs with powerful backend logic!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🌟 My Favorite Libraries  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+### ☁  Cloud Storage  
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
 
 ### 📱 App Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Tools & Others
+### ⚙ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,10 +62,10 @@
 
 ## 🚀 Current Projects
 
-- 🌿 **Air Quality Prediction Web App** – Python + Flask + ML  
-- 🍲 **Recipe Sharing Website** – MERN Stack (MongoDB, Express, React, Node.js)  
-- 🧑‍💼 **Personal Portfolio Website & Blog** – Responsive + Custom Design  
-- 📱 **Bus Ticket Booking App** – React Native + Firebase
+- 🌿 *Air Quality Prediction Web App* – Python + Flask + ML  
+- 🍲 *Recipe Sharing Website* – MERN Stack (MongoDB, Express, React, Node.js)  
+- 🧑‍💼 *Personal Portfolio Website & Blog* – Responsive + Custom Design  
+- 📱 *Bus Ticket Booking App* – React Native + Firebase
 
 ---
 
@@ -71,7 +78,7 @@
 
 ---
 
-## ✍️ Quote
+## ✍ Quote
 
 > “Build things you love. Break things to learn. Fix things to grow.”
 
