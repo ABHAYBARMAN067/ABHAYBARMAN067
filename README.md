@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Abhay 👋</h1>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Coding GIF" width="500" />
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="Coding animation" 
+  width="500"
+/>
 </p>
 
 <p align="center">
