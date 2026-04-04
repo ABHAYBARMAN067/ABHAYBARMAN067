@@ -78,23 +78,6 @@
 - 🧑‍💼 **Personal Portfolio & Blog** – Responsive & Custom UI  
 - 📱 **Bus Ticket Booking App** – React Native & Firebase  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=radical" 
-    alt="Abhay's GitHub stats"
-  />
-  <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&theme=radical" 
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## ✍️ Quote
 
