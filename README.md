@@ -137,7 +137,11 @@ Machine Learning Fundamentals
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
 
 ---
 <p align="center">
