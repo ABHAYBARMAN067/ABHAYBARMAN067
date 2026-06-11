@@ -48,8 +48,9 @@ const abhay = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,,bash,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,linux,bash,figma&theme=dark" />
 </p>
+
 
 ---
 
@@ -117,11 +118,12 @@ Machine Learning Fundamentals
 
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&border_radius=12" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&border_radius=12" width="48%" />
 
