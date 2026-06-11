@@ -1,92 +1,182 @@
-<h1 align="center">Hi there, I'm Abhay 👋</h1>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&multiline=false&width=700&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![GitHub followers](https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=00A7D8&labelColor=062B3A)](https://github.com/ABHAYBARMAN067)
+
+</div>
 
 <p align="center">
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  alt="Coding animation" 
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding animation"
   width="500"
 />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ABHAYBARMAN067">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-barman-9a0b3a277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge">
-  </a>
-  <a href="https://codepen.io/Abhay-Barman">
-    <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge">
-  </a>
-</p>
-
 ---
+```
+
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m **Abhay** (@ABHAYBARMAN067)
-- 👀 Interested in **Full Stack Development, App Development, and Machine Learning**
-- 🌱 Currently learning **Advanced React & React Native**
-- 💞 Open to collaborating on **web apps, mobile apps, APIs, and AI-based projects**
-- 📫 How to reach me:
-  - 📧 Email: **abhaybarman067@gmail.com**
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
-  - 💻 [GitHub](https://github.com/ABHAYBARMAN067)
-  - 🎨 [CodePen](https://codepen.io/Abhay-Barman)
-- ⚡ Fun fact: I love mixing **creative UI designs** with **powerful backend logic**
+```javascript
+const abhay = {
+  name:      "Abhay Barman",
+  username:  "@ABHAYBARMAN067",
+  location:  "India 🇮🇳",
+  interests: ["Full Stack Dev", "App Dev", "Machine Learning"],
+  learning:  "Advanced React & React Native",
+  openTo:    "Web apps · Mobile apps · APIs · AI projects",
+  funFact:   "I mix creative UI designs with powerful backend logic ⚡",
+  contact:   "abhaybarman067@gmail.com"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--
-### 🌟 Favorite Libraries
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
- -->
-### ☁️ Cloud & Storage
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### 📱 App Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-yellow?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,,bash,figma&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Current Projects
-
-- 🌿 **Air Quality Prediction Web App** – Python, Flask & Machine Learning  
-- 🍲 **Recipe Sharing Platform** – MERN Stack  
-- 🧑‍💼 **Personal Portfolio & Blog** – Responsive & Custom UI  
-- 📱 **Bus Ticket Booking App** – React Native & Firebase  
-
-
-## 📊 GitHub Stats
+## ⚡ Animation & UI Libraries
 
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lenis-Smooth_Scroll-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Parallax_Tilt-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TSParticles-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nodemailer-0F9D58?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
+---
+
+## 🎯 Focus Areas
+
+```text
+Full Stack Development      MERN Stack Applications
+REST API Development        Responsive UI Design
+Cloud Deployment            Mobile App Development
+Machine Learning Fundamentals
+```
+
+---
 
 
-## ✍️ Quote
+## 🚀 Current Projects
 
-> **“Build things you love. Break things to learn. Fix things to grow.”**
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏨 Hotel Reservation Form</h3>
+      🍽️ React · Node.js · Express · MongoDB<br/>
+      🏨 Hotel booking, food ordering & admin management system
+    </td>
+    <td align="center" width="50%">
+      <h3>🏠 TripNest</h3>
+      ⚡ Next.js 16 · TypeScript · MongoDB<br/>
+      🌍 Airbnb-inspired travel listing & booking platform
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 Advanced E-Commerce Platform</h3>
+      🛍️ React · Express · MongoDB · JWT<br/>
+      👨‍💼 User, Seller & Admin role-based commerce system
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 More Projects Coming</h3>
+      💡 Full Stack · AI · Mobile Apps<br/>
+      🔥 Continuously building and shipping new ideas
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&border_radius=12" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&border_radius=12" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF&border_radius=12" width="40%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" />
+</p>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=062B3A&color=00A7D8&line=00A7D8&point=7FD8F5" width="100%" />
+</div>
+
+
+<!--
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABHAYBARMAN067/ABHAYBARMAN067/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+-->
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/ABHAYBARMAN067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge)](https://codepen.io/Abhay-Barman)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:abhaybarman067@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Build things you love. Break things to learn. Fix things to grow."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
