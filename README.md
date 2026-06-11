@@ -125,6 +125,7 @@ Machine Learning Fundamentals
 
 <img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF" width="49%" />
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00A7D8&dates=FFFFFF" width="49%" />
 <br><br>
 
@@ -139,7 +140,10 @@ Machine Learning Fundamentals
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=tokyonight&no-frame=true&no-bg=true&column=7"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
