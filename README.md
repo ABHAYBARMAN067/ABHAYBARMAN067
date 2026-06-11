@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
@@ -119,28 +118,29 @@ Machine Learning Fundamentals
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&border_radius=12" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00A7D8&dates=FFFFFF" width="49%" />
+<br><br>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF&border_radius=12" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF" width="42%" />
 
 </div>
+
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
-
 
 ---
 <p align="center">
