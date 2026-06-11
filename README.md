@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
+
 const abhay = {
   name:      "Abhay Barman",
   username:  "@ABHAYBARMAN067",
