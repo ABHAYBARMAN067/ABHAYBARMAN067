@@ -2,12 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&multiline=false&width=700&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00A7D8?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -16,11 +21,11 @@
 </div>
 
 <p align="center">
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding animation"
-  width="500"
-/>
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Coding animation"
+    width="500"
+  />
 </p>
 
 ---
@@ -182,11 +187,11 @@ Machine Learning Fundamentals
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A7D8?style=for-the-badge&logo=vercel&logoColor=white)](https://abhaybarman-067-my-portfolio-mr57.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/ABHAYBARMAN067)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge)](https://codepen.io/Abhay-Barman)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:abhaybarman067@gmail.com)
-
 </div>
 
 ---
