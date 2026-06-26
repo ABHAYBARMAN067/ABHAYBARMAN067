@@ -82,6 +82,11 @@ Machine Learning Fundamentals
 
 ## 🚀 Current Projects
 
+
+
+
+
+
 <div align="center">
 
 <table>
@@ -105,6 +110,19 @@ Machine Learning Fundamentals
       👨‍💼 User, Seller & Admin role-based commerce system
     </td>
     <td align="center" width="50%">
+      <h3>📸 The Golden Shutter</h3>
+      📷 React · Node.js · Express · MongoDB<br/>
+      💍 Wedding photography booking & gallery management platform
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>📦 Inventory Management System</h3>
+      📊 React · Node.js · Express · MongoDB<br/>
+      📈 Inventory, stock tracking & role-based management system
+    </td>
+    <td align="center" width="50%">
       <h3>🚀 More Projects Coming</h3>
       💡 Full Stack · AI · Mobile Apps<br/>
       🔥 Continuously building and shipping new ideas
@@ -114,6 +132,8 @@ Machine Learning Fundamentals
 </table>
 
 </div>
+
+
 
 
 ---
