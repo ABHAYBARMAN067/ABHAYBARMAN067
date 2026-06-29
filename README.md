@@ -5,9 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&multiline=false&width=700&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
 <a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00A7D8?style=for-the-badge" alt="Portfolio"/>
 </a>
