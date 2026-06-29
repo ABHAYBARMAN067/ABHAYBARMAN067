@@ -1,31 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
+
+# 👋 Hi, I'm Abhay Barman
+
+### 🚀 Full Stack Developer | Machine Learning Enthusiast
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&multiline=false&width=700&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&width=700&lines=const+abhay+%3D+new+Developer();+🚀;Building+Full+Stack+%2B+Mobile+Apps;Learning+Advanced+React+%26+React+Native;Open+to+Collaborate+✨;Build.+Break.+Learn.+Grow.+🔥" alt="Typing SVG" />
 </a>
+
+<br><br>
+
 <a href="https://abhaybarman-067-my-portfolio-mr57.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00A7D8?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00A7D8?style=for-the-badge" alt="Portfolio" />
 </a>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![GitHub followers](https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=00A7D8&labelColor=062B3A)](https://github.com/ABHAYBARMAN067)
+<a href="https://github.com/ABHAYBARMAN067">
+  <img src="https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=00A7D8&labelColor=062B3A" alt="GitHub Followers" />
+</a>
 
 </div>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding animation"
-    width="500"
-  />
-</p>
-
 ---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+
+</div>
 ```
 
 
