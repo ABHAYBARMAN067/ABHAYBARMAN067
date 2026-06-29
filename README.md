@@ -7,7 +7,10 @@
 ### 🚀 Full Stack Developer | Machine Learning Enthusiast
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&width=700&lines=const+abhay+%3D+new+Developer();+🚀;Building+Full+Stack+%2B+Mobile+Apps;Learning+Advanced+React+%26+React+Native;Open+to+Collaborate+✨;Build.+Break.+Learn.+Grow.+🔥" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&width=700&lines=const+abhay+%3D+new+Developer();Building+Full+Stack+%2B+Mobile+Apps;Learning+Advanced+React+%26+React+Native;Open+to+Collaborate;Build.+Break.+Learn.+Grow."
+    alt="Typing SVG"
+  />
 </a>
 
 <br><br>
@@ -48,7 +51,7 @@ const abhay = {
   contact:   "abhaybarman067@gmail.com"
 };
 ```
-
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -88,10 +91,6 @@ Machine Learning Fundamentals
 
 
 ## 🚀 Current Projects
-
-
-
-
 
 
 <div align="center">
