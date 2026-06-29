@@ -39,7 +39,7 @@
 
 ## 🙋‍♂️ About Me
 
-
+```js
 const abhay = {
   name:      "Abhay Barman",
   username:  "@ABHAYBARMAN067",
@@ -51,7 +51,7 @@ const abhay = {
   contact:   "abhaybarman067@gmail.com"
 };
 ```
-```
+
 ---
 
 ## 🛠️ Tech Stack
